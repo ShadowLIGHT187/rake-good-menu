@@ -1,3 +1,4 @@
+if game.GameId == 18152961289 then
 if game.GameId == 847722000 then
 if game.GameId == 847722000 then
 	if getgenv().RakeGui then
